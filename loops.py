@@ -1,4 +1,6 @@
-price = [20,30,40,50]
+from functools import  reduce
 
-for num in  price 
-print(num)
+lst = [40,56]
+reduce(lambda x,y: x+y, lst)
+    
+    
