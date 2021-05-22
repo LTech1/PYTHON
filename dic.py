@@ -4,3 +4,5 @@ price_list = {
     "banans" : "80"
 }
 print (price_list)
+
+print("i love you")
