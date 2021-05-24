@@ -20,4 +20,9 @@ print(fruits)
 
 squares = [i*i  for i in range(10)]
 
-range(10)
+
+range(0,20)
+list(range(0,10))
+list(range(type(0,19))
+list(range(20,30))
+
